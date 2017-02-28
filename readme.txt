@@ -8,7 +8,7 @@ Git has a mutable index called stage
 Git tracks changes
 Git tracks changes again
 Git 2
-
+Git 3
 
 
 
